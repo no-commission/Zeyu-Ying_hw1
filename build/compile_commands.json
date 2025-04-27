@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Lenovo/Zeyu-Ying_hw1/build",
+  "command": "D:\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=c99 -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c C:\\Users\\Lenovo\\Zeyu-Ying_hw1\\src\\algebra.c",
+  "file": "C:/Users/Lenovo/Zeyu-Ying_hw1/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/Zeyu-Ying_hw1/build",
+  "command": "D:\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=c99 -o CMakeFiles\\main.dir\\src\\main.c.obj -c C:\\Users\\Lenovo\\Zeyu-Ying_hw1\\src\\main.c",
+  "file": "C:/Users/Lenovo/Zeyu-Ying_hw1/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]

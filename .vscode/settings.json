@@ -16,5 +16,12 @@
             "command": "extension.execute",
             "priority": 4
         }
-    ]
+    ],
+    "files.associations": {
+        "algebra.h": "c",
+        "stdio.h": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "math.h": "c"
+    }
 }
